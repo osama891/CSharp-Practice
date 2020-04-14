@@ -1,0 +1,12 @@
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.deps.json
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.json
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.dev.json
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.dll
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.pdb
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csprojAssemblyReference.cache
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csproj.CoreCompileInputs.cache
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfoInputs.cache
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfo.cs
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.dll
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.pdb
+/Users/osamasohail/Projects/EventsAndDelegates/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.genruntimeconfig.cache
