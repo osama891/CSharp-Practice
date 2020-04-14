@@ -1,0 +1,2 @@
+# CSharp-Practice
+This is a simple app which includes an airline, passengers and an exit control list institution. A singleton pattern is implemented so that each airline office can book tickets one at a time to stop the booking of same seat. Once a seat is booked, an event is used to inform the ECL institution so that they can check whether the person exists in their list or not. The result is displayed on the console.
